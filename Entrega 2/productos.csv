@@ -1,0 +1,17 @@
+proteinas;;;;;;;;
+numero;1;;;;;;;
+nombre;soya;;;;;;;
+;;;;;;;;
+ensaladas;;;;;;;;
+numero;2;3;4;;;;;
+nombre;tomate;lechuga;brocoli;;;;;
+;;;;;;;;
+frutas;;;;;;;;
+numero;5;6;7;8;;;;
+nombre;manzana;durazno;pera;naranja;;;;
+;;;;;;;;
+datos;;;;;;;;
+;1;2;3;4;5;6;7;8
+vol_prod;;;;;;;;
+inventario_inicial;;;;;;;;
+porciones_prod;;;;;;;;
