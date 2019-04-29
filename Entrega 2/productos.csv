@@ -1,6 +1,6 @@
 proteinas;;;;;;;;
 numero;1;;;;;;;
-nombre;soya;;;;;;;
+nombre;pollo;;;;;;;
 ;;;;;;;;
 ensaladas;;;;;;;;
 numero;2;3;4;;;;;
@@ -12,6 +12,6 @@ nombre;manzana;durazno;pera;naranja;;;;
 ;;;;;;;;
 datos;;;;;;;;
 ;1;2;3;4;5;6;7;8
-vol_prod;;;;;;;;
-inventario_inicial;;;;;;;;
-porciones_prod;;;;;;;;
+vol_prod;0,00436;0,00034;0,00082;0,0028;0,000267;0,0003;0,00255;0,00018
+inventario_inicial;56;20;12;8;25;12;0;0
+porciones_prod;3;4;6;2;2,5;8;8;5
